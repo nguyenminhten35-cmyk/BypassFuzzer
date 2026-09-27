@@ -1,4 +1,4 @@
-class SmartFilter:
+      class SmartFilter:
     """All credit for this filter goes to @defparam:
     https://gist.github.com/defparam/8067cc4eb0140399f2bcd5f66a860db4
     """
